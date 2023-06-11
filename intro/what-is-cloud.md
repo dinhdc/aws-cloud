@@ -9,3 +9,5 @@ applications, and other IT resources
 - Amazon Web Services owns and maintains the network-connected hardware
 required for these application services, while you provision and use what you need
 via a web application.
+
+## Next lecture: [The Deployment Models of the Cloud](models-of-cloud.md)
