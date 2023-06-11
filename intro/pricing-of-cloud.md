@@ -15,3 +15,5 @@ model
 ## Data transfer OUT of the Cloud
 
 - Data transfer IN is free
+
+## Previous lecture: [Types of Cloud Computing](types-of-cloud.md)

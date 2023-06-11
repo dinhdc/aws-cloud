@@ -20,3 +20,7 @@
 ## Go global in minutes
 
 - leverage the AWS global infrastructure
+
+## Previous lecture: [The Five Characteristics of Cloud Computing](characteristics-of-cloud.md)
+
+## Next lecture: [Problems solved by the Cloud](problems-solved.md)

@@ -19,3 +19,7 @@
 - Keep some servers on premises and extend some capabilities to the Cloud
 - Control over sensitive assets in your private infrastructure
 - Flexibility and costeffectiveness of the public cloud
+
+## Previous lecture: [What is Cloud Computing?](what-is-cloud.md)
+
+## Next lecture: [The Five Characteristics of Cloud Computing](characteristics-of-cloud.md)

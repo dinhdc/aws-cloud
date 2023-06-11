@@ -21,3 +21,7 @@
 ## Measured service
 
 - Usage is measured, users pay correctly for what they have used
+
+## Previous lecture: [The Deployment Models of the Cloud](models-of-cloud.md)
+
+## Next lecture: [Six Advantages of Cloud Computing](advantages-of-cloud.md)

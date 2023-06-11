@@ -26,3 +26,7 @@
   - Google Apps (Gmail), Dropbox, Zoom
 
 ![types-cloud](types-cloud.png)
+
+## Previous lecture: [Problems solved by the Cloud](problems-solved.md)
+
+## Next lecture: [Pricing of the Cloud](pricing-of-cloud.md)

@@ -24,3 +24,7 @@ adding additional nodes
 ## Agility
 
 - rapidly develop, test and launch software applications
+
+## Previous lecture: [Six Advantages of Cloud Computing](advantages-of-cloud.md)
+
+## Next lecture: [Types of Cloud Computing](types-of-cloud.md)
