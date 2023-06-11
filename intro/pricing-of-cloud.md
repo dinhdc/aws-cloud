@@ -17,3 +17,5 @@ model
 - Data transfer IN is free
 
 ## Previous lecture: [Types of Cloud Computing](types-of-cloud.md)
+
+## Next lecture: [AWS Cloud Use Cases](use-cases-cloud.md)
